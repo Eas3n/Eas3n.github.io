@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+<follow_challenge>
+  <feedId>72167854129436672</feedId>
+  <userId>68587465971033088</userId>
+ </follow_challenge>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Evilys&#39;s Blog</title>
-  <follow_challenge>
-    <feedId>72167854129436672</feedId>
-    <userId>68587465971033088</userId>
-  </follow_challenge>
   
   <link href="/atom.xml" rel="self"/>
   
